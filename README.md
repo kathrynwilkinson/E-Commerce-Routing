@@ -17,7 +17,7 @@ Express.js API and SQL.
 
 ## Description
 
-Description. In progress.
+Project in progress.
 
 ## Installation
 
@@ -48,4 +48,4 @@ Please feel free to contact me with any questions via email or LinkedIn.
 This project is licensed under the Apache 2.0 License.
 For more information, please visit: [Apache Explained](https://choosealicense.com/licenses/apache-2.0/)
 
-&copy; 2021 Kathryn Wilkinson
+&copy; 2021 k.wilkinson
