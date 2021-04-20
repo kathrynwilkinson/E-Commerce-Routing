@@ -4,6 +4,7 @@
 
 Blurb.
 Express.js API and SQL.
+
 ## Table of Contents
 
 - [Description](#description)
@@ -16,7 +17,7 @@ Express.js API and SQL.
 
 ## Description
 
-Description.
+Description. In progress.
 
 ## Installation
 
