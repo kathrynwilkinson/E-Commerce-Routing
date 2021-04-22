@@ -10,8 +10,7 @@ Express.js API and SQL.
 - [Description](#description)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [Tests](#tests)
+- [Contribute](#contribute)
 - [Contact Me](#questions)
 - [License](#license)
 
