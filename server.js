@@ -14,6 +14,6 @@ app.use(routes);
 sequelize.sync({ force: false }) //false = if tables are already there, don't override them
   .then(() => {
     app.listen(PORT, () => {
-    console.log(`App listening on port ${PORT}!`);
+      console.log(`App listening on port ${PORT}!`);
     });
-  })
+  });
