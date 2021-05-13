@@ -42,7 +42,6 @@ router.post('/', async (req, res) => {
 router.put('/:id', async (req, res) => {
   try {
     const tagInfo = await Tag.update({ tag_name: req.body.tag_name }, { where: { id: req.params.id } });
-
     if (!tagInfo) {
       res.status(404).json({ message: 'Tag not found! No tags are listed by this id.' });
       return;
@@ -58,7 +57,6 @@ router.put('/:id', async (req, res) => {
 router.delete('/:id', async (req, res) => {
   try {
     const tagInfo = await Tag.destroy({ where: { id: req.params.id } });
-
     if (!tagInfo) {
       res.status(404).json({ message: 'Tag not found! No tags are listed by this id.' });
     }
