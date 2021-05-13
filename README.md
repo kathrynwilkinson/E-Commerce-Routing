@@ -1,30 +1,29 @@
 # E-Commerce-Back-End
 
-![License: Apache](https://img.shields.io/badge/License-Apache2.0-yellow.svg)
+![License: MIT](https://img.shields.io/badge/License-MIT-success.svg)
 
-Blurb.
-Express.js API and SQL.
+Ready to use, back-end routing for your new e-commerce platform!
 
 ## Table of Contents
 
 - [Description](#description)
-- [Installation](#installation)
-- [Usage](#usage)
 - [Contribute](#contribute)
 - [Contact Me](#questions)
 - [License](#license)
 
 ## Description
 
-Project in progress.
+This project posesses all the back-end elements of an e-commerce platform, including: a working Express.js API, sequelize models interacting with a MySQL database, and working routes.
 
-## Installation
+The user is able to:
 
-Installation.
-
-## Usage
-
-Usage.
+- get all categories + associated product data
+- get all products + associated category and tag data
+- get all tags + associated product data
+- get categories by id + associated product data
+- get products by id + associated category and tag data
+- get tags by id + associated product data
+- create, update, and delete categories, products by id
 
 [![DEMO]
 
@@ -44,7 +43,7 @@ Please feel free to contact me with any questions via email or LinkedIn.
 
 ## License
 
-This project is licensed under the Apache 2.0 License.
-For more information, please visit: [Apache Explained](https://choosealicense.com/licenses/apache-2.0/)
+This project is licensed under the MIT License.
+For more information, please visit: [MIT Explained](https://choosealicense.com/licenses/mit/)
 
 &copy; 2021 k.wilkinson
