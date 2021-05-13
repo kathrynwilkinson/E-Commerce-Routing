@@ -13,7 +13,7 @@ Ready to use, back-end routing for your new e-commerce platform!
 
 ## Description
 
-This project posesses all the back-end elements of an e-commerce platform, including: a working Express.js API, sequelize models interacting with a MySQL database, and working routes.
+This project possesses all the back-end elements of an e-commerce platform, including: a working Express.js API, sequelize models interacting with a MySQL database, and working routes.
 
 The user is able to:
 
@@ -25,7 +25,7 @@ The user is able to:
 - get tags by id + associated product data
 - create, update, and delete categories, products by id
 
-[![DEMO]
+[![DEMO](http://img.youtube.com/vi/5YREGp_QQHM/0.jpg)](http://www.youtube.com/watch?v=5YREGp_QQHM "")
 
 ## Contribute
 
