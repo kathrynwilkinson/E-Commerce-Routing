@@ -1,8 +1,8 @@
-# E-Commerce-Back-End
+# E-Commerce (back-end only)
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-success.svg)
 
-Ready to use, back-end routing for your new e-commerce platform!
+Ready to use, back-end routing for any e-commerce platform!
 
 ## Table of Contents
 
