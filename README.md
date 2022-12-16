@@ -7,7 +7,7 @@ Ready to use, back-end routing for any e-commerce platform!
 ## Table of Contents
 
 - [Description](#description)
-- [Contribute](#contribute)
+- [Contributing](#contributing)
 - [Contact Me](#questions)
 - [License](#license)
 
@@ -27,9 +27,9 @@ The user is able to:
 
 [![DEMO](http://img.youtube.com/vi/5YREGp_QQHM/0.jpg)](http://www.youtube.com/watch?v=5YREGp_QQHM "")
 
-## Contribute
+## Contributing
 
-If you have something you'd like to contribute, make a pull request!
+This project was completed as an individual assignment for The Ohio State University Coding Boot Camp.
 
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.0-4baaaa.svg)](code_of_conduct.md)
 
@@ -37,7 +37,7 @@ If you have something you'd like to contribute, make a pull request!
 
 Please feel free to contact me with any questions via email or LinkedIn.
 
-- Github: [NAHco-code](https://github.com/NAHco-code)
+- Github: [kathrynwilkinson](https://github.com/kathrynwilkinson)
 - LinkedIn: [kwilkinsonxx](https://www.linkedin.com/in/kwilkinsonxx/)
 - Email: [kathrynxwilk@gmail.com](kathrynxwilk@gmail.com)
 
